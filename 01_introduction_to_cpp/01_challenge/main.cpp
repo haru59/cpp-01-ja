@@ -2,7 +2,7 @@
 
 #include <iostream>
 
-int dummy_main() {
+int main() {
     int myNumber = 5;
 
     int anotherNumber = 5;
