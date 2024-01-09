@@ -1,5 +1,6 @@
 #include"math_operations.h"
 #include<iostream>
+
 int main(){
     float x {0};
     float y {0};
@@ -17,4 +18,5 @@ int main(){
     }else{
         std::cout <<"Error" << std::endl;
     }
+    return 0;
 }
